@@ -1,0 +1,16 @@
+{
+  "name": "Durable: Strength That Lasts",
+  "short_name": "Durable",
+  "description": "A 12-week functional strength and injury-resilience program for busy adults. Equipment-free, works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c211a",
+  "theme_color": "#0c211a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
